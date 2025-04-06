@@ -1,0 +1,1 @@
+{ "name": "binomo-signal-dashboard", "scripts": { "build": "vite build" } }
